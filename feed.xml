@@ -10,12 +10,12 @@
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
   <channel>
-    <title><![CDATA[Pandaemonium]]></title>
-    <description><![CDATA[recordings of our sessions of Heart: The City Beneath]]></description>
+    <title><![CDATA[PANDAEMONIUM]]></title>
+    <description><![CDATA[Planet. City. Mystery. Recordings of our sessions of Pandaemonium, playing Heart: The City Beneath]]></description>
     <link><![CDATA[https://jpritchard6.github.io/Pandaemonium/feed.xml]]></link>
     <language>en-us</language>
-    <itunes:author>jake pritchard</itunes:author>
-    <itunes:summary><![CDATA[recordings of our sessions of Heart: The City Beneath]]></itunes:summary>
+    <itunes:author>Jake Pritchard</itunes:author>
+    <itunes:summary><![CDATA[Planet. City. Mystery. Recordings of our sessions of Pandaemonium, playing Heart: The City Beneath]]></itunes:summary>
     <itunes:image href="https://jpritchard6.github.io/Pandaemonium/PANDAEMONIUM.png"/>
     <itunes:category text="Fiction">
       <itunes:category text="Science Fiction"/>
