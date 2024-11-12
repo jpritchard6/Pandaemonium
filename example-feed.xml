@@ -10,19 +10,19 @@
   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
 >
   <channel>
-    <title><![CDATA[diy-podcast-example-feed]]></title>
-    <description><![CDATA[an example feed for hosting a podcast using github pages and google drive.]]></description>
+    <title><![CDATA[Pandaemonium]]></title>
+    <description><![CDATA[recordings of our sessions of Heart: The City Beneath]]></description>
     <link><![CDATA[https://anna-murphy.github.io/diy-podcast-feed/example-feed.xml]]></link>
     <language>en-us</language>
-    <itunes:author>anna murphy</itunes:author>
-    <itunes:summary><![CDATA[an example feed for hosting a podcast using github pages and google drive.]]></itunes:summary>
+    <itunes:author>jake pritchard</itunes:author>
+    <itunes:summary><![CDATA[recordings of our sessions of Heart: The City Beneath]]></itunes:summary>
     <itunes:image href="https://anna-murphy.github.io/diy-podcast-feed/cover-image.jpg"/>
-    <itunes:category text="Education">
-      <itunes:category text="How To"/>
+    <itunes:category text="Fiction">
+      <itunes:category text="Science Fiction"/>
     </itunes:category>
     <itunes:owner>
-      <itunes:name>anna murphy</itunes:name>
-      <itunes:email>curunilauro@gmail.com</itunes:email>
+      <itunes:name>jake pritchard</itunes:name>
+      <itunes:email>jacobpritchard6@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:explicit>true</itunes:explicit>
     <itunes:type>serial</itunes:type>
