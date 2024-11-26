@@ -32,8 +32,8 @@
     <podcast:locked>no</podcast:locked>
     <item>
       <title><![CDATA[ep 1: example audio]]></title>
-      <link><![CDATA[https://drive.usercontent.google.com/download?id=1KAiDeT8heR-CrKE55KpiC1uGV7yvPSWm&amp;export=download&authuser=0&amp;confirm=t&amp;uuid=6de7c8bc-e1b0-42ed-95a0-fbf7726c06c2&amp;at=AENtkXYs-z-xme81sjXooCvHv5oy:1732651774912]]></link>
-      <guid isPermaLink="true"><![CDATA[https://drive.usercontent.google.com/download?id=1KAiDeT8heR-CrKE55KpiC1uGV7yvPSWm&amp;export=download&authuser=0&amp;confirm=t&amp;uuid=6de7c8bc-e1b0-42ed-95a0-fbf7726c06c2&amp;at=AENtkXYs-z-xme81sjXooCvHv5oy:1732651774912]]></guid>
+      <link><![CDATA[https://drive.usercontent.google.com/download?id=1KAiDeT8heR-CrKE55KpiC1uGV7yvPSWm&amp;export=download&amp;authuser=0&amp;confirm=t&amp;uuid=749d478b-bd44-435a-9d0d-2190af4e791c&amp;at=AENtkXYpx195mUSByOnajYbFuwHB:1732652154141]]></link>
+      <guid isPermaLink="true"><![CDATA[https://drive.usercontent.google.com/download?id=1KAiDeT8heR-CrKE55KpiC1uGV7yvPSWm&amp;export=download&amp;authuser=0&amp;confirm=t&amp;uuid=749d478b-bd44-435a-9d0d-2190af4e791c&amp;at=AENtkXYpx195mUSByOnajYbFuwHB:1732652154141]]></guid>
       <description><![CDATA[<p>Session 1 of PANDAEMONIUM, a game of Heart: the City Beneath by Grant Howitt and Christopher Taylor. We also use the supplement "Ichor Drowned" by Sillion L & Brendan McLeod. Music is the track "Ambiant Point of No Return" off the album "The Bingewatcher: Score 1" by Komiku, used under CC 1.0.</p>]]></description>
       <pubDate>Mon, 11 Nov 2024 15:58:04 GMT</pubDate>
       <itunes:duration>0</itunes:duration>
@@ -41,7 +41,7 @@
       <itunes:season>1</itunes:season>
       <itunes:episode>1</itunes:episode>
       <itunes:episodeType>trailer</itunes:episodeType>
-      <enclosure url="https://drive.usercontent.google.com/download?id=1KAiDeT8heR-CrKE55KpiC1uGV7yvPSWm&amp;export=download&authuser=0&amp;confirm=t&amp;uuid=6de7c8bc-e1b0-42ed-95a0-fbf7726c06c2&amp;at=AENtkXYs-z-xme81sjXooCvHv5oy:1732651774912">
+      <enclosure url="https://drive.usercontent.google.com/download?id=1KAiDeT8heR-CrKE55KpiC1uGV7yvPSWm&amp;export=download&amp;authuser=0&amp;confirm=t&amp;uuid=749d478b-bd44-435a-9d0d-2190af4e791c&amp;at=AENtkXYpx195mUSByOnajYbFuwHB:1732652154141">
     </item>
   </channel>
 </rss>
